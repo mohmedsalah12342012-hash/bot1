@@ -1,0 +1,4 @@
+discord.py
+pillow
+arabic-reshaper
+python-bidi
